@@ -1,0 +1,46 @@
+.DICTOR{
+    display: flex;
+    text-align: center;
+}
+.name{
+    display: flex;
+    margin-top: 10%;
+    margin-left: 40%;
+    margin-right: 50%;
+}
+.D{
+    color: blue;
+    font-size: 100px;
+}
+.I{
+    color: red;
+    font-size: 100px;
+}
+.C{color: orange;
+font-size: 100px
+}
+.T{color: blue;
+font-size: 100px
+}
+.O{color: green;
+font-size: 100px
+}
+.R{color: red;
+font-size: 100px
+}
+.icon{
+    display: flex;
+    margin-left: 90%;
+    gap: 5px;
+}
+.search{
+    display: flex;
+    flex: 100%;
+    padding: 10px;
+    justify-content: space-between;
+    border: 1px solid whitesmoke;
+    border-radius: 50px;
+    width: 60%;
+    height: 30px;
+
+}
